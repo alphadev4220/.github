@@ -66,5 +66,5 @@
 📫 **Let's connect**
 
 - Fiverr: [Boris Nadrljanski](https://www.fiverr.com/borisnadrlja387)
-- Telegram: `@@pollo`
-- Discord: `alphadev_2222`
+- Telegram: `@apowhale`
+- Discord: `alphadev`
